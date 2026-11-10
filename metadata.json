@@ -1,0 +1,6 @@
+{
+  "name": "AudioFix Pro - Speaker Diagnostics & Audio Engineering",
+  "description": "Diagnose and fix speaker sound issues with interactive tone sweep tests, stereo channel checks, and certified audio hardware troubleshooting protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
